@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jun 03 10:17:38 PHT 2019
+0.baseType=DIRECTORY
+0.base=/Users/eukrissongahid/Downloads/android-fundamentals-apps-v2-master/PhoneNumberSpinnerEspresso/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
